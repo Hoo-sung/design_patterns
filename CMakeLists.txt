@@ -1,0 +1,3 @@
+add_subdirectory(behavioral-patterns)
+add_subdirectory(creational-patterns)
+add_subdirectory(structural-patterns)
